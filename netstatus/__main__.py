@@ -7,4 +7,4 @@ import netstatus
 
 
 if __name__ == '__main__':
-    netstatus.NetworkStatus().mainloop()
+    netstatus.NetworkStatus().run_test()
