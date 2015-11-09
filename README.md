@@ -1,10 +1,6 @@
 
 
-<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="errno.html">errno</a><br>
-</td><td width="25%" valign=top><a href="os.html">os</a><br>
-</td><td width="25%" valign=top><a href="signal.html">signal</a><br>
-</td><td width="25%" valign=top><a href="socket.html">socket</a><br>
-</td></tr></table></td></tr></table><p>
+
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
 <tr bgcolor="#ee77aa">
 <td colspan=3 valign=bottom>&nbsp;<br>
